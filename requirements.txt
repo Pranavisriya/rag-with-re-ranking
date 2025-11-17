@@ -1,0 +1,11 @@
+langchain>=0.2.14
+langchain-openai>=0.1.22
+langchain-community>=0.2.0
+langchain-text-splitters>=0.2.0
+chromadb>=0.5.5
+tiktoken>=0.7.0
+python-dotenv>=1.0.1
+openai>=1.51.0
+sentence-transformers
+"uvicorn[standard]" 
+fastapi
